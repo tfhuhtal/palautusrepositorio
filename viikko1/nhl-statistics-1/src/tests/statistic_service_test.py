@@ -63,3 +63,4 @@ class TestStatisticsService(unittest.TestCase):
         self.assertEqual(players[0].name, "Gretzky")
         self.assertEqual(players[1].name, "Yzerman")
         self.assertEqual(players[2].name, "Lemieux")
+        
